@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.env
+.env.*
+inputs/
+outputs/
+*.jpeg
+*.jpg
+*.png
+*.webp
